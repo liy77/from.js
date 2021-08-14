@@ -159,7 +159,7 @@ export function has(module: string) {
   }
 }
 
-export function auditFix() {}
+function auditFix() {}
 
 export function update(
   module: string | Array<string>,
