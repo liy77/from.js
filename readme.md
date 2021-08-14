@@ -1,4 +1,5 @@
 - [🚀 From.js](#-fromjs)
+  - [📦 Installation](#-installation)
     - [🧐 How to use](#-how-to-use)
       - [✨ Importing](#-importing)
           - [Common Js](#common-js)
@@ -16,7 +17,9 @@
   - [🎗 License](#-license)
 
 # 🚀 From.js
-An easy and fast importer of global modules## 📦 Installation
+An easy and fast importer of global modules
+
+## 📦 Installation
 
 **YARN**
 ```bash
