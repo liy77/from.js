@@ -30,4 +30,4 @@ var __importDefault =
 Object.defineProperty(exports, "__esModule", { value: true });
 var from_1 = __importDefault(require("./js/from"));
 __exportStar(require("./js/from"), exports);
-exports.default = from_1.default;
+exports = from_1.default;
