@@ -2,11 +2,28 @@
   "dependencies": {
     "@types/node": "^16.6.1"
   },
-  "name": "from",
-  "version": "1.0.0",
+  "name": "from-module",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/JustAWaifuHunter/from.js"
+  },
   "engines": {
     "node": ">=14.0.0"
-  }
+  },
+  "keywords": [
+    "module",
+    "from",
+    "commonjs",
+    "esmodule",
+    "import",
+    "require",
+    "global",
+    "memory",
+    "node",
+    "modules",
+    "packages",
+    "package"
+  ]
 }
