@@ -3,7 +3,7 @@
     "@types/node": "^16.6.1"
   },
   "name": "from-module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "repository": {
