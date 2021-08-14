@@ -1,6 +1,6 @@
 #🚀 From.js
-An easy and fast importer of global modules
 
+An easy and fast importer of global modules
 
 - [📦 Installation](#-installation)
   - [🧐 How to use](#-how-to-use)
@@ -15,12 +15,12 @@ An easy and fast importer of global modules
 ## 📦 Installation
 
 **YARN**
-```sh
+```bash
 yarn add from.js
 ```
 
 **NPM**
-```sh
+```bash
 npm install from.js
 ```
 
@@ -29,12 +29,12 @@ npm install from.js
 #### ✨ Importing
 ###### Common Js
 ```js
-const fromJs = require("from.js");
+const fromJs = require("from-module");
 ```
 
 ###### Js Modules
 ```js
-import fromJs from "from.js";
+import fromJs from "from-module";
 ```
 
 #### 📥 Install module
