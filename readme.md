@@ -1,17 +1,17 @@
-#🚀 From.js
-
+# 🚀 From.js
 An easy and fast importer of global modules
 
-- [📦 Installation](#-installation)
-  - [🧐 How to use](#-how-to-use)
-    - [✨ Importing](#-importing)
-        - [Common Js](#common-js)
-        - [Js Modules](#js-modules)
-    - [📥 Install module](#-install-module)
-    - [🗑 Removing module](#-removing-module)
-    - [🎈 Importing module](#-importing-module)
-    - [🤔 Checking if a module is installed](#-checking-if-a-module-is-installed)
-- [🎗 License](#-license)
+- [🚀 From.js](#-fromjs)
+  - [📦 Installation](#-installation)
+    - [🧐 How to use](#-how-to-use)
+      - [✨ Importing](#-importing)
+          - [Common Js](#common-js)
+          - [Js Modules](#js-modules)
+      - [📥 Install module](#-install-module)
+      - [🗑 Removing module](#-removing-module)
+      - [🎈 Importing module](#-importing-module)
+      - [🤔 Checking if a module is installed](#-checking-if-a-module-is-installed)
+  - [🎗 License](#-license)
 ## 📦 Installation
 
 **YARN**
